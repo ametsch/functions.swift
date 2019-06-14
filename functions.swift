@@ -1,6 +1,5 @@
 //
 //  functions.swift
-//  randomizers
 //
 //  Created by Metsch, Aaron on 5/24/19.
 //  Copyright © 2019 Metsch, Aaron. All rights reserved.
