@@ -40,6 +40,9 @@ extension Int {
 
 
 class functions {
+    
+    private init(){}
+    
     func triangleArea(base: Double, height: Double) -> Double{
         return 0.5 * base * height
     }
